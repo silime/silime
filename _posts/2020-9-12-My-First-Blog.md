@@ -8,3 +8,9 @@ cover: 'https://github.com/silime/silime.github.io/blob/master/assets/img/hero.j
 tags: jekyll 
 ---
 啦啦啦啦
+```C
+#include<stdio.h>
+int main(){
+    printf("Helo Word!")
+}
+```
