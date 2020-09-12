@@ -1,16 +1,20 @@
 ---
 layout: post
-title: '我第一博客'
-subtitle: '新建blog'
-date: 2020-9-24
+title: '我的博客'
+subtitle: '学习笔记1'
+date: 2020-9-12
 categories: 技术
 cover: 'assets/img/3.jpg'
-tags: jekyll 
+tags: java 
 ---
-啦啦啦啦
-```C
-#include<stdio.h>
-int main(){
-    printf("Helo Word!")
+### 开学第一周
+
+第一个Java程序
+
+```Java
+public class test1 {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
 }
 ```
