@@ -4,7 +4,7 @@ title: '我第一博客'
 subtitle: '新建blog'
 date: 2020-9-24
 categories: 技术
-cover: 'assets/img/2.jpg'
+cover: 'assets/img/3.jpg'
 tags: jekyll 
 ---
 啦啦啦啦
